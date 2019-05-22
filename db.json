@@ -1,6 +1,4 @@
-{
-    this.users =
-      [
+[
         {
           id: 1,
           name: "firtsUser",
@@ -21,5 +19,4 @@
           name: "fourthUser",
           number: 5234
         }
-      ]
-    }
+]
