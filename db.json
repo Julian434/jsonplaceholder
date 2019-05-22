@@ -1,31 +1,24 @@
 {
-  "posts": [
+  "user": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+          id: 1,
+          name: "firtsUser",
+          number: 3141
+        },
+        {
+          id: 2,
+          name: "secondUser",
+          number: 5465
+        },
+        {
+          id: 3,
+          name: "thirdUser",
+          number: 5746
+        },
+        {
+          id: 4,
+          name: "fourthUser",
+          number: 5234
+        }
+  ]
 }
